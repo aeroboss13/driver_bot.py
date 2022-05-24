@@ -1,0 +1,6 @@
+back = "⬅️ Назад"
+add_trip = "➕Добавить поездку"
+take_trip = "✅ Взять"
+deny_trip = "❌ Отклонить"
+already_taken = "Заказ уже взят"
+get_excel = "Получить заявки"
